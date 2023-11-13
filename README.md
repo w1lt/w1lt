@@ -13,5 +13,3 @@ I'm Will Whitehead, a sophomore at the University of Kansas, where I'm passionat
 - 🔗 **Website**: Check out my website at [willwhitehead.tech](https://willwhitehead.tech).
 
 - 📄 **Resume**: You can find my resume [here](https://whitehead.wiki).
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/willwhitehead122/). If you have any questions, want to collaborate on a project, or just want to chat about tech, don't hesitate to reach out!
