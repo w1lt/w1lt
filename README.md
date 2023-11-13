@@ -1,4 +1,5 @@
 # Hey there! 👋
+
 I'm Will Whitehead, a sophomore at the University of Kansas, where I'm passionately studying Computer Science. Here's a bit more about me:
 
 - 🎓 **Education**: I'm pursuing an Honors B.S. in Computer Science at the University of Kansas, and I'm on track to graduate in December 2025. I've been fortunate to receive the Chancellor's Scholarship and McClendon Engineering Scholarship along the way.
@@ -11,6 +12,8 @@ I'm Will Whitehead, a sophomore at the University of Kansas, where I'm passionat
 
 - 💻 **Projects**: Some of my favorite coding projects include Stock Savant, which earned me the Best Use of GitHub Award at HackUTD, and Pupil Pong, a unique game project that won 2nd Place in the Accessibility Theme at HackKU.
 
-Feel free to connect with me on Linkedin. If you have any questions, want to collaborate on a project, or just want to chat about tech, don't hesitate to reach out!
+- 🔗 **Website**: Check out my website at [willwhitehead.tech](https://willwhitehead.tech).
 
-[![Will's GitHub Stats](https://github-readme-stats.vercel.app/api?username=w1lt&hide=issues&show_icons=true)](https://github.com/w1lt)
+- 📄 **Resume**: You can find my resume [here](https://whitehead.wiki).
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/willwhitehead122/). If you have any questions, want to collaborate on a project, or just want to chat about tech, don't hesitate to reach out!
