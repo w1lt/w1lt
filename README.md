@@ -1,4 +1,4 @@
-# Hey there! 👋 
+# Hey there! 👋
 
 I'm Will Whitehead, a sophomore at the University of Kansas, where I'm passionately studying Computer Science. Here's a bit more about me:
 
