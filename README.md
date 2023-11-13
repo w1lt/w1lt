@@ -1,4 +1,5 @@
 # Hey there! 👋
+#[![Linkedin Badge](https://img.shields.io/badge/-willwhitehead122-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willwhitehead122/)](https://www.linkedin.com/in/willwhitehead122/) 
 
 I'm Will Whitehead, a sophomore at the University of Kansas, where I'm passionately studying Computer Science. Here's a bit more about me:
 
