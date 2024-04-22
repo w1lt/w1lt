@@ -11,7 +11,7 @@
 
 ### About Me 🌐
 
-I'm a passionate Software Developer and Entrepreneur with a knack for building intuitive and scalable web applications. I specialize in React, Material-UI, and Firebase, leveraging these tools to create seamless user experiences. I've been recognized for my ability to merge creativity with technical expertise, delivering projects that stand out in both functionality and aesthetics.
+I'm a passionate Software Developer and Entrepreneur with an interest in building intuitive and scalable web applications. I specialize in React, Material-UI, and Firebase, leveraging these tools to create seamless user experiences. I've been recognized for my ability to merge creativity with technical expertise, delivering projects that stand out in both functionality and aesthetics.
 
 ### My Projects 🚀
 
@@ -34,6 +34,5 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/willwhite
 
 ---
 
-Thank you for visiting my GitHub profile!
 
 </div>
