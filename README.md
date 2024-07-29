@@ -1,3 +1,3 @@
-whitehead.wiki\
-csjobs.lol\
-hackku.org
+[whitehead.wiki](https://whitehead.wiki)\
+[csjobs.lol](https://csjobs.lol)\
+[hackku.org](https://hackku.org)\
