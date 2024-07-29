@@ -17,8 +17,6 @@ I'm a Software Developer and Entrepreneur specializing in React, Material-UI, an
 
 Reach out on [LinkedIn](https://www.linkedin.com/in/willwhitehead122/) or visit my [website](https://whitehead.wiki).
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=w1lt&show_icons=true&theme=radical" />
 </div>
 
 ---
