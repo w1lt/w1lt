@@ -1,4 +1,3 @@
 whitehead.wiki\
 csjobs.lol\
-hackku.org\
-
+hackku.org
